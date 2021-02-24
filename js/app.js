@@ -1,3 +1,4 @@
+reload()
 const input = document.getElementById('lbsInput');
 const output = document.getElementById('output');
 
